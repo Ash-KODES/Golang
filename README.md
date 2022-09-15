@@ -1,3 +1,3 @@
 # Golang-Exercises
 
-I will keep all the code that I wrote while practicing golang.
+I will keep all the code here that I wrote while practicing golang.
