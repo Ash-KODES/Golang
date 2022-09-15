@@ -12,7 +12,8 @@ func main() {
 	var college="IET"
 
 	fmt.Println(name)	
-	fmt.Println("\n");
+
 	fmt.Println(college)	
 }
 
+//there can be only one main function in a package--https://forum.golangbridge.org/t/main-redeclared-in-this-block-warning/16231
