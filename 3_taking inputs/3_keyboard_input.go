@@ -1,19 +1,18 @@
 package main
 
-import(
-	"fmt"
-) 
+import "fmt"
 
 func main() {
 
 	var firstname string
 	fmt.Println("enter your first name")
-	fmt.scan(&firstname)
+	fmt.Scan(&firstname)
 
 	var lastname string
 	fmt.Println("enter your last name")
-	fmt.scan(&lastname)
+	fmt.Scan(&lastname)
 
 
-	fmt.Println("%v %v,firstname,lastname")
+	println(firstname+" "+lastname)
+
 }
