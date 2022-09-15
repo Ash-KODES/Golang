@@ -12,7 +12,5 @@ func main() {
 	fmt.Println("Bareilly")
 }
 
-
-
 //go run   code.go        --->for (compiling+running) 
 //go build code.go        --->for just compiling(will create a exe application)
