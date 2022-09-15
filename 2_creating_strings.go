@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main(){
+func main() {
 
 	//explicit data type deination
 	var name string 
@@ -11,8 +11,8 @@ func main(){
 	//implicit data type defination
 	var college="IET"
 
-	fmt.println(name)	
-	fmt.println("\n");
-	fmt.println(college)	
+	fmt.Println(name)	
+	fmt.Println("\n");
+	fmt.Println(college)	
 }
 
