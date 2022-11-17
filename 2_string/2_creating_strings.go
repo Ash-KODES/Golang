@@ -4,7 +4,7 @@ import "fmt"
 
 func main() {
 
-	//explicit data type deination
+	//explicit data type defination
 	var name string
 	name = "Ashutosh"
 
